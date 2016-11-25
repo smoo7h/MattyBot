@@ -1,0 +1,39 @@
+C:\Development\Bot test\MattyBot\MattyBot\bin\Bot Application1.dll.config
+C:\Development\Bot test\MattyBot\MattyBot\bin\Bot Application1.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Bot Application1.pdb
+C:\Development\Bot test\MattyBot\MattyBot\bin\Autofac.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Chronic.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.Bot.Builder.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.Bot.Connector.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Newtonsoft.Json.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.Net.Http.Formatting.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.Web.Http.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.Web.Http.WebHost.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\Autofac.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.Bot.Builder.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.Bot.Connector.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\Newtonsoft.Json.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.Net.Http.Formatting.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.Web.Http.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\System.Web.Http.WebHost.xml
+C:\Development\Bot test\MattyBot\MattyBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Development\Bot test\MattyBot\MattyBot\obj\Debug\MattyBot.csprojResolveAssemblyReference.cache
+C:\Development\Bot test\MattyBot\MattyBot\obj\Debug\Bot Application1.dll
+C:\Development\Bot test\MattyBot\MattyBot\obj\Debug\Bot Application1.pdb
